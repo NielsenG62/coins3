@@ -2,7 +2,7 @@
 
 #### Application will let you have everything you need to run multiple webpacks with just NPM Install
 
-#### By Will Pratt
+#### By Gabe Nielsen
 
 ## Technologies Used
 
